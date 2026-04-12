@@ -2943,6 +2943,11 @@ input, select, textarea {
 				transform: translateY(0);
 			}
 
+
+			#about .services-inner ul {
+				text-align: left;
+			}
+
 	}
 
 /* Mobile (Portrait) */
@@ -3062,6 +3067,9 @@ input, select, textarea {
 				margin-bottom: 2em;
 			}
 
+		#about .services-inner ul {
+				text-align: left;
+			}
 		/* Footer */
 
 			#footer header.major {
