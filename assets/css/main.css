@@ -2944,13 +2944,7 @@ input, select, textarea {
 			}
 
 
-			#about .services-inner ul {
-				text-align: left;
-			}
 
-			  #about li {
-    		text-align: left;
-  			}
 
 	}
 
@@ -3071,12 +3065,6 @@ input, select, textarea {
 				margin-bottom: 2em;
 			}
 
-		#about .services-inner ul {
-				text-align: left;
-			}
-		  #about li {
-    text-align: left;
-  }
 		/* Footer */
 
 			#footer header.major {
