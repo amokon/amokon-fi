@@ -2483,6 +2483,7 @@ input, select, textarea {
 		/* Header */
 
 			#nav {
+				top: 0.5em;
 				position: relative;
 				margin: 0.5em 0 0 0;
 				line-height: 2.25em;
