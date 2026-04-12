@@ -3115,6 +3115,16 @@ input, select, textarea {
   text-align: center;
 }
 
+#contact header.major h2,
+#contact header.major p {
+  text-align: center;
+}
+
+#about header.major h2,
+#about header.major p {
+  text-align: center;
+}
+
 @media screen and (max-width: 736px) {
   #services .services-inner {
     max-width: 100%;
@@ -3124,6 +3134,16 @@ input, select, textarea {
   #services header.major p {
     text-align: center;
   }
+
+    #contact header.major h2,
+  #contact header.major p {
+    text-align: center;
+  }
+
+  #about header.major h2,
+  #about header.major p {
+  text-align: center;
+}
 
   #services .service-box h3,
   #services .service-box p,
