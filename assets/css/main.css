@@ -2948,6 +2948,10 @@ input, select, textarea {
 				text-align: left;
 			}
 
+			  #about li {
+    		text-align: left;
+  			}
+
 	}
 
 /* Mobile (Portrait) */
@@ -3070,6 +3074,9 @@ input, select, textarea {
 		#about .services-inner ul {
 				text-align: left;
 			}
+		  #about li {
+    text-align: left;
+  }
 		/* Footer */
 
 			#footer header.major {
