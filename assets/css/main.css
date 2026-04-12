@@ -2094,7 +2094,7 @@ input, select, textarea {
 
 	#header-wrapper {
 		position: relative;
-		padding: 4em 0 2em 0;
+		padding: 5em 0 2em 0;
 		background-image: url("images/header.svg");
 		background-image: url("images/overlay.png"), url("images/header.svg"), -moz-linear-gradient(75deg, #3b47f0 15%, #5963e7 55%);
 		background-image: url("images/overlay.png"), url("images/header.svg"), -webkit-linear-gradient(75deg, #3b47f0 15%, #5963e7 55%);
