@@ -3171,6 +3171,13 @@ input, select, textarea {
 }
 
 
+#video .video-container {
+    width: 100%;
+    max-width: 850px;
+    margin: 0 auto;
+    aspect-ratio: 16 / 9;
+}
+
 #video iframe {
     display: block;
     width: 100%;
